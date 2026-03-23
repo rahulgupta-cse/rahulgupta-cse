@@ -1,7 +1,19 @@
-<!-- Profile Banner -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20I'm%20RAHUL%20GUPTA%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=CD5C5C&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;AWS+Cloud+Enthusiast;Django+%7C+Flask+Developer;Always+Learning+New+Things+🚀&fontSize=40&fontAlignY=35" />
+</p>
+
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+---
 
 <h3 align="center">🚀 Python Full Stack Developer | AWS | Django | Flask</h3>
 
@@ -19,45 +31,44 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 </p>
 
 ### 🌐 Web Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,django,flask" />
 </p>
 
 ### 🗄️ Databases
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,git,github" />
 </p>
 
 ---
 
 ## 🚀 Projects
-🔹 **Real Time Currency Converter**
-  - A Python CLI-based real time currency converter
-  - Converts INR to multiple international currencies (USD, CNY, JPY, AED, etc.)  
-  - Provides accurate and efficient currency conversion
-  
-🔹 **QR Generator**
-  - A Python CLI-based QR Generator
-  - Converts URLs or text into scannable QR codes  
-  - Generates and saves QR codes as PNG images  
-  - Simple and efficient tool for quick QR creation
-    
-🔹 **Expense Tracker**  
-  - Built a command-line Expense Tracker using Python  
-  - Enables adding, viewing, and deleting expense records  
-  - Includes date and category-based expense management  
-  - Utilizes CSV files for persistent data storage
+
+### 💱 Real Time Currency Converter
+- Python CLI-based real-time currency converter  
+- Converts INR to USD, CNY, JPY, AED, etc.  
+- Accurate and efficient conversion  
+
+### 🔳 QR Generator
+- Python-based QR Code Generator  
+- Converts text/URLs into QR codes  
+- Saves output as PNG images  
+
+### 📊 Expense Tracker
+- CLI-based expense tracker  
+- Add, view, delete expenses  
+- CSV-based data storage  
 
 ---
 
@@ -90,12 +101,13 @@
 </p>
 
 ---
+
 ## ⚡ Fun Fact
 💡 I turn coffee ☕ into code and ideas into reality 🚀  
 
 ---
 
-<!-- Footer Wave -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
 </p>
