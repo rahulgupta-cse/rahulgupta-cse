@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulgupta-cse&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rahulgupta-cse&theme=tokyonight&cache_seconds=0" />
 </p>
 
 ---
