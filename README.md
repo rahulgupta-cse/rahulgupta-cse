@@ -30,7 +30,7 @@
 
 | Certification | Issuing Organization | Year | Credential |
 |---------------|----------------------|------|------------|
-| Oracle Certified Foundations Associate (Agentic AI) | Oracle University | 2026 | [View](https://catalog-education.oracle.com/pls/certview/sharebadge?id=70AA728FADDA2E79CDB26723EB5D9C23C4C1CB18DD0AF003E0439F9354A6E988) |
+| Oracle Certified Foundations Associate (Agentic AI) | Oracle | 2026 | [View](https://catalog-education.oracle.com/pls/certview/sharebadge?id=70AA728FADDA2E79CDB26723EB5D9C23C4C1CB18DD0AF003E0439F9354A6E988) |
 | Frontend Developer Certification | HackerRank | 2026 | [View](https://www.hackerrank.com/certificates/5f84553e7194) |
 | Employability Enhancement Program | Centum Foundation / Infosys Foundation | 2025 | [View](https://drive.google.com/file/d/11tK_QVAdVfoGu1jLkvwpPCh3Vm5zNNOZ/view?usp=drivesdk) |
 ---
