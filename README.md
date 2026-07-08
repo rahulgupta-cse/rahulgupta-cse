@@ -26,7 +26,7 @@
 📈 Always learning new technologies  
 
 ---
-### 🏆 Certifications
+## 🏆 Certifications
 
 | Certification | Issuing Organization | Year | Credential |
 |---------------|----------------------|------|------------|
