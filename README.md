@@ -18,7 +18,7 @@
 ---
 
 ## 👨‍💻 About Me
-✨ Passionate Python Full Stack Developer  
+✨ Passionate Python Full Stack Developer
 ☁️ Skilled in AWS Cloud Services  
 🌐 Building scalable web apps using Django & Flask  
 💡 Strong in problem solving & backend systems
