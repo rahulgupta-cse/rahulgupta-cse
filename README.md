@@ -66,11 +66,18 @@
 
 ## 🚀 Projects
 
-### 💱 Real Time Currency Converter
-- Python CLI-based real-time currency converter  
-- Converts INR to USD, CNY, JPY, AED, etc.  
-- Accurate and efficient conversion  
+### ### 💊 PharmaPulse AI – AI-Powered CRM for Healthcare Professionals
 
+🔗 Live Demo: https://pharmapulse-ai.vercel.app/
+
+🔗 Backend API: https://pharmapulse-ai.onrender.com
+
+🔗 GitHub: https://github.com/rahulgupta-cse/PharmaPulse_AI
+
+- Built a full-stack AI-powered Healthcare CRM using **Python, FastAPI, React.js, LangGraph, LangChain, Groq LLM, SQLAlchemy, and SQLite**.
+- Developed an AI assistant for HCP interaction logging, intelligent search, note summarization, sentiment analysis, HCP management, and next-action         recommendations. Deployed the frontend on **Vercel** and backend on **Render**.
+
+  
 ### 🔳 QR Generator
 - Python-based QR Code Generator  
 - Converts text/URLs into QR codes  
