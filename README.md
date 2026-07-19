@@ -120,7 +120,7 @@
 ---
 
 ## ⚡ Fun Fact
-💡 I turn coffee ☕ into code and ideas into reality 🚀  
+💡 I turn coffee ☕ into code and ideas into reality. 🚀  
 
 ---
 
