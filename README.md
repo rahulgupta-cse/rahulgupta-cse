@@ -77,11 +77,17 @@
 - Built a full-stack AI-powered Healthcare CRM using **Python, FastAPI, React.js, LangGraph, LangChain, Groq LLM, SQLAlchemy, and SQLite**.
 - Developed an AI assistant for HCP interaction logging, intelligent search, note summarization, sentiment analysis, HCP management, and next-action         recommendations. Deployed the frontend on **Vercel** and backend on **Render**.
 
+---
   
-### 🔳 QR Generator
-- Python-based QR Code Generator  
-- Converts text/URLs into QR codes  
-- Saves output as PNG images  
+###🎉 EventHub – Full-Stack Event Management Platform
+
+🔗 Live Demo: https://eventhub-g5ir.onrender.com/
+
+🔗 GitHub: https://github.com/rahulgupta-cse/eventhub
+
+-Built a full-stack Event Management Platform using Python, Flask, HTML, CSS, JavaScript, SQLite, and QR Code technology.
+
+-Developed an admin dashboard for event creation, attendee management, QR-based attendance tracking, and automated reporting, along with a student portal   for event discovery, registration, and secure QR-based event entry. Deployed the application on Render with a responsive user interface and real-time event management capabilities.
 
 ### 📊 Expense Tracker
 - CLI-based expense tracker  
