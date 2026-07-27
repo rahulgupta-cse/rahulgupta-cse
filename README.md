@@ -79,7 +79,7 @@
 
 ---
   
-###🎉 EventHub – Full-Stack Event Management Platform
+### EventHub – Full-Stack Event Management Platform
 
 🔗 Live Demo: https://eventhub-g5ir.onrender.com/
 
@@ -87,7 +87,7 @@
 
 -Built a full-stack Event Management Platform using Python, Flask, HTML, CSS, JavaScript, SQLite, and QR Code technology.
 
--Developed an admin dashboard for event creation, attendee management, QR-based attendance tracking, and automated reporting, along with a student portal   for event discovery, registration, and secure QR-based event entry. Deployed the application on Render with a responsive user interface and real-time event management capabilities.
+-Developed an admin dashboard for event creation, attendee management, QR-based attendance tracking, and automated reporting, along with a student portal    for event discovery, registration, and secure QR-based event entry. Deployed the application on Render with a responsive user interface and real-time       event management capabilities.
 
 ### 📊 Expense Tracker
 - CLI-based expense tracker  
