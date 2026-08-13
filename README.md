@@ -96,7 +96,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgupta-cse&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rahulgupta-cse&theme=tokyonight&cache_seconds=0" />
 </p>
