@@ -131,7 +131,6 @@
 💡 I turn coffee ☕ into code and ideas into reality. 🚀  
 
 ---
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:1A1A2E,100:16213E&height=120&section=footer"/>
