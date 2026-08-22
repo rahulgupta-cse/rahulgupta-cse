@@ -27,7 +27,7 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications 
 
 | Certification | Issuing Organization | Year | Credential |
 |---------------|----------------------|------|------------|
