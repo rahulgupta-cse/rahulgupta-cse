@@ -66,7 +66,7 @@
 ## 🚀 Projects
 
 ## 💊 PharmaPulse AI – AI-Powered CRM for Healthcare Professionals
-
+ 
 🔗 Live Demo: https://pharmapulse-ai.vercel.app/
 
 🔗 Backend API: https://pharmapulse-ai.onrender.com
