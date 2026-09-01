@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=CD5C5C&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;AWS+Cloud+Enthusiast;Django+%7C+Flask+Developer;Always+Learning+New+Things+🚀&fontSize=44&fontAlignY=35" />
 </p> 
-
+ 
 <!-- Coding GIF --> 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
