@@ -25,7 +25,7 @@
 💡 I turn ideas into reality through code 
 📈 Always learning new technologies
  
----
+--- 
 
 ## 🏆 Certifications 
 
